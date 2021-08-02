@@ -1,0 +1,4 @@
+name: HostBlocker
+version: @version@
+main: me.mandrillx.hostblocker.HostBlocker
+description: Block IP hosts either temporarily, or permanently to prevent players with malicious intents.
